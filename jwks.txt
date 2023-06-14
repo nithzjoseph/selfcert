@@ -1,0 +1,12 @@
+
+  "keys": [
+    {
+      "use": "sig",
+      "kty": "RSA",
+      "n": "zIZs3SwMntxnLMTm-3orOkWH0eaF7GFOWNHFosNAAriPGYrJpjnJhSlM6wOL2pmZma_sbq95kMt9wvYHkNR3cKR21wKM9u768SLxRQhj0sPXiZ38J8D5JuCgIG-QeK4-n6PLdXWXHPo806hkEp9SeH41-c3dIfQ2vGSGNdSuMPRlopXR7XodVwhXQb_nmz50I2Q-3781AWJB_M5k9B-kpnjssGz0_w3DZm7hri-TV1jozTMgrf4lAd5-noS3vB12DDDIbRe7oD4xobvShTdGq979uL4m69OLDYphxH-RWdHKTl0TZ5sbJ2MspE4YllRjBAJSSFBGDI3OlHSnDjYFFw",
+      "e": "AQAB",
+      "kid": "es.nithin.2023",
+      "alg": "RS256"
+    }
+  ]
+}
