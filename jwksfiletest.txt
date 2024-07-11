@@ -1,4 +1,5 @@
-{"keys": [{
+{
+"keys": [{
 		"e": "AQAB",
 		"kid": "payconiq.signer.4.api.be.kbc-group.com",
 		"kty": "RSA",
