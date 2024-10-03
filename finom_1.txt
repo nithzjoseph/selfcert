@@ -5,6 +5,7 @@
 "kid": "9E10F3489512359137E237E9778FD91A7136A573",
 "use": "sig",
 "alg": "ES256",
+"crv": "P-256",
 "X": "kzr6ih15DraW1roGGe4YUWarip1J6NNRKjdIdDzXmUI=",
 "Y": "tfmrO6lKUqJmPhQj6CRnO92PD1QtpYAYVWBYxbOhdW4=",
 "x5c": [
